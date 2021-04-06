@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "TesteVariaveis1/1.0.0": {
+        "runtime": {
+          "TesteVariaveis1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TesteVariaveis1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

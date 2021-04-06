@@ -1,0 +1,16 @@
+C:\Users\rsuarez\Desktop\fontes\TesteVariaveis5\bin\Debug\net5.0\TesteVariaveis5.exe
+C:\Users\rsuarez\Desktop\fontes\TesteVariaveis5\bin\Debug\net5.0\TesteVariaveis5.deps.json
+C:\Users\rsuarez\Desktop\fontes\TesteVariaveis5\bin\Debug\net5.0\TesteVariaveis5.runtimeconfig.json
+C:\Users\rsuarez\Desktop\fontes\TesteVariaveis5\bin\Debug\net5.0\TesteVariaveis5.runtimeconfig.dev.json
+C:\Users\rsuarez\Desktop\fontes\TesteVariaveis5\bin\Debug\net5.0\TesteVariaveis5.dll
+C:\Users\rsuarez\Desktop\fontes\TesteVariaveis5\bin\Debug\net5.0\ref\TesteVariaveis5.dll
+C:\Users\rsuarez\Desktop\fontes\TesteVariaveis5\bin\Debug\net5.0\TesteVariaveis5.pdb
+C:\Users\rsuarez\Desktop\fontes\TesteVariaveis5\obj\Debug\net5.0\TesteVariaveis5.csprojAssemblyReference.cache
+C:\Users\rsuarez\Desktop\fontes\TesteVariaveis5\obj\Debug\net5.0\TesteVariaveis5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rsuarez\Desktop\fontes\TesteVariaveis5\obj\Debug\net5.0\TesteVariaveis5.AssemblyInfoInputs.cache
+C:\Users\rsuarez\Desktop\fontes\TesteVariaveis5\obj\Debug\net5.0\TesteVariaveis5.AssemblyInfo.cs
+C:\Users\rsuarez\Desktop\fontes\TesteVariaveis5\obj\Debug\net5.0\TesteVariaveis5.csproj.CoreCompileInputs.cache
+C:\Users\rsuarez\Desktop\fontes\TesteVariaveis5\obj\Debug\net5.0\TesteVariaveis5.dll
+C:\Users\rsuarez\Desktop\fontes\TesteVariaveis5\obj\Debug\net5.0\ref\TesteVariaveis5.dll
+C:\Users\rsuarez\Desktop\fontes\TesteVariaveis5\obj\Debug\net5.0\TesteVariaveis5.pdb
+C:\Users\rsuarez\Desktop\fontes\TesteVariaveis5\obj\Debug\net5.0\TesteVariaveis5.genruntimeconfig.cache

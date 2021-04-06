@@ -1,0 +1,16 @@
+C:\Users\rsuarez\Desktop\fontes\Raio\bin\Debug\net5.0\Raio.exe
+C:\Users\rsuarez\Desktop\fontes\Raio\bin\Debug\net5.0\Raio.deps.json
+C:\Users\rsuarez\Desktop\fontes\Raio\bin\Debug\net5.0\Raio.runtimeconfig.json
+C:\Users\rsuarez\Desktop\fontes\Raio\bin\Debug\net5.0\Raio.runtimeconfig.dev.json
+C:\Users\rsuarez\Desktop\fontes\Raio\bin\Debug\net5.0\Raio.dll
+C:\Users\rsuarez\Desktop\fontes\Raio\bin\Debug\net5.0\ref\Raio.dll
+C:\Users\rsuarez\Desktop\fontes\Raio\bin\Debug\net5.0\Raio.pdb
+C:\Users\rsuarez\Desktop\fontes\Raio\obj\Debug\net5.0\Raio.csprojAssemblyReference.cache
+C:\Users\rsuarez\Desktop\fontes\Raio\obj\Debug\net5.0\Raio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rsuarez\Desktop\fontes\Raio\obj\Debug\net5.0\Raio.AssemblyInfoInputs.cache
+C:\Users\rsuarez\Desktop\fontes\Raio\obj\Debug\net5.0\Raio.AssemblyInfo.cs
+C:\Users\rsuarez\Desktop\fontes\Raio\obj\Debug\net5.0\Raio.csproj.CoreCompileInputs.cache
+C:\Users\rsuarez\Desktop\fontes\Raio\obj\Debug\net5.0\Raio.dll
+C:\Users\rsuarez\Desktop\fontes\Raio\obj\Debug\net5.0\ref\Raio.dll
+C:\Users\rsuarez\Desktop\fontes\Raio\obj\Debug\net5.0\Raio.pdb
+C:\Users\rsuarez\Desktop\fontes\Raio\obj\Debug\net5.0\Raio.genruntimeconfig.cache

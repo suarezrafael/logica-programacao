@@ -1,0 +1,16 @@
+C:\Users\rsuarez\Desktop\fontes\FuncoesMatematicas1\bin\Debug\net5.0\FuncoesMatematicas1.exe
+C:\Users\rsuarez\Desktop\fontes\FuncoesMatematicas1\bin\Debug\net5.0\FuncoesMatematicas1.deps.json
+C:\Users\rsuarez\Desktop\fontes\FuncoesMatematicas1\bin\Debug\net5.0\FuncoesMatematicas1.runtimeconfig.json
+C:\Users\rsuarez\Desktop\fontes\FuncoesMatematicas1\bin\Debug\net5.0\FuncoesMatematicas1.runtimeconfig.dev.json
+C:\Users\rsuarez\Desktop\fontes\FuncoesMatematicas1\bin\Debug\net5.0\FuncoesMatematicas1.dll
+C:\Users\rsuarez\Desktop\fontes\FuncoesMatematicas1\bin\Debug\net5.0\ref\FuncoesMatematicas1.dll
+C:\Users\rsuarez\Desktop\fontes\FuncoesMatematicas1\bin\Debug\net5.0\FuncoesMatematicas1.pdb
+C:\Users\rsuarez\Desktop\fontes\FuncoesMatematicas1\obj\Debug\net5.0\FuncoesMatematicas1.csprojAssemblyReference.cache
+C:\Users\rsuarez\Desktop\fontes\FuncoesMatematicas1\obj\Debug\net5.0\FuncoesMatematicas1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rsuarez\Desktop\fontes\FuncoesMatematicas1\obj\Debug\net5.0\FuncoesMatematicas1.AssemblyInfoInputs.cache
+C:\Users\rsuarez\Desktop\fontes\FuncoesMatematicas1\obj\Debug\net5.0\FuncoesMatematicas1.AssemblyInfo.cs
+C:\Users\rsuarez\Desktop\fontes\FuncoesMatematicas1\obj\Debug\net5.0\FuncoesMatematicas1.csproj.CoreCompileInputs.cache
+C:\Users\rsuarez\Desktop\fontes\FuncoesMatematicas1\obj\Debug\net5.0\FuncoesMatematicas1.dll
+C:\Users\rsuarez\Desktop\fontes\FuncoesMatematicas1\obj\Debug\net5.0\ref\FuncoesMatematicas1.dll
+C:\Users\rsuarez\Desktop\fontes\FuncoesMatematicas1\obj\Debug\net5.0\FuncoesMatematicas1.pdb
+C:\Users\rsuarez\Desktop\fontes\FuncoesMatematicas1\obj\Debug\net5.0\FuncoesMatematicas1.genruntimeconfig.cache

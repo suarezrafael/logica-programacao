@@ -1,0 +1,16 @@
+C:\Users\rsuarez\Desktop\fontes\AreaTrapezio\bin\Debug\net5.0\AreaTrapezio.exe
+C:\Users\rsuarez\Desktop\fontes\AreaTrapezio\bin\Debug\net5.0\AreaTrapezio.deps.json
+C:\Users\rsuarez\Desktop\fontes\AreaTrapezio\bin\Debug\net5.0\AreaTrapezio.runtimeconfig.json
+C:\Users\rsuarez\Desktop\fontes\AreaTrapezio\bin\Debug\net5.0\AreaTrapezio.runtimeconfig.dev.json
+C:\Users\rsuarez\Desktop\fontes\AreaTrapezio\bin\Debug\net5.0\AreaTrapezio.dll
+C:\Users\rsuarez\Desktop\fontes\AreaTrapezio\bin\Debug\net5.0\ref\AreaTrapezio.dll
+C:\Users\rsuarez\Desktop\fontes\AreaTrapezio\bin\Debug\net5.0\AreaTrapezio.pdb
+C:\Users\rsuarez\Desktop\fontes\AreaTrapezio\obj\Debug\net5.0\AreaTrapezio.csprojAssemblyReference.cache
+C:\Users\rsuarez\Desktop\fontes\AreaTrapezio\obj\Debug\net5.0\AreaTrapezio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rsuarez\Desktop\fontes\AreaTrapezio\obj\Debug\net5.0\AreaTrapezio.AssemblyInfoInputs.cache
+C:\Users\rsuarez\Desktop\fontes\AreaTrapezio\obj\Debug\net5.0\AreaTrapezio.AssemblyInfo.cs
+C:\Users\rsuarez\Desktop\fontes\AreaTrapezio\obj\Debug\net5.0\AreaTrapezio.csproj.CoreCompileInputs.cache
+C:\Users\rsuarez\Desktop\fontes\AreaTrapezio\obj\Debug\net5.0\AreaTrapezio.dll
+C:\Users\rsuarez\Desktop\fontes\AreaTrapezio\obj\Debug\net5.0\ref\AreaTrapezio.dll
+C:\Users\rsuarez\Desktop\fontes\AreaTrapezio\obj\Debug\net5.0\AreaTrapezio.pdb
+C:\Users\rsuarez\Desktop\fontes\AreaTrapezio\obj\Debug\net5.0\AreaTrapezio.genruntimeconfig.cache

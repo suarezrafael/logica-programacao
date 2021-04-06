@@ -1,0 +1,16 @@
+C:\Users\rsuarez\Desktop\fontes\DemoEntradaDados1\bin\Debug\net5.0\DemoEntradaDados1.exe
+C:\Users\rsuarez\Desktop\fontes\DemoEntradaDados1\bin\Debug\net5.0\DemoEntradaDados1.deps.json
+C:\Users\rsuarez\Desktop\fontes\DemoEntradaDados1\bin\Debug\net5.0\DemoEntradaDados1.runtimeconfig.json
+C:\Users\rsuarez\Desktop\fontes\DemoEntradaDados1\bin\Debug\net5.0\DemoEntradaDados1.runtimeconfig.dev.json
+C:\Users\rsuarez\Desktop\fontes\DemoEntradaDados1\bin\Debug\net5.0\DemoEntradaDados1.dll
+C:\Users\rsuarez\Desktop\fontes\DemoEntradaDados1\bin\Debug\net5.0\ref\DemoEntradaDados1.dll
+C:\Users\rsuarez\Desktop\fontes\DemoEntradaDados1\bin\Debug\net5.0\DemoEntradaDados1.pdb
+C:\Users\rsuarez\Desktop\fontes\DemoEntradaDados1\obj\Debug\net5.0\DemoEntradaDados1.csprojAssemblyReference.cache
+C:\Users\rsuarez\Desktop\fontes\DemoEntradaDados1\obj\Debug\net5.0\DemoEntradaDados1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rsuarez\Desktop\fontes\DemoEntradaDados1\obj\Debug\net5.0\DemoEntradaDados1.AssemblyInfoInputs.cache
+C:\Users\rsuarez\Desktop\fontes\DemoEntradaDados1\obj\Debug\net5.0\DemoEntradaDados1.AssemblyInfo.cs
+C:\Users\rsuarez\Desktop\fontes\DemoEntradaDados1\obj\Debug\net5.0\DemoEntradaDados1.csproj.CoreCompileInputs.cache
+C:\Users\rsuarez\Desktop\fontes\DemoEntradaDados1\obj\Debug\net5.0\DemoEntradaDados1.dll
+C:\Users\rsuarez\Desktop\fontes\DemoEntradaDados1\obj\Debug\net5.0\ref\DemoEntradaDados1.dll
+C:\Users\rsuarez\Desktop\fontes\DemoEntradaDados1\obj\Debug\net5.0\DemoEntradaDados1.pdb
+C:\Users\rsuarez\Desktop\fontes\DemoEntradaDados1\obj\Debug\net5.0\DemoEntradaDados1.genruntimeconfig.cache
