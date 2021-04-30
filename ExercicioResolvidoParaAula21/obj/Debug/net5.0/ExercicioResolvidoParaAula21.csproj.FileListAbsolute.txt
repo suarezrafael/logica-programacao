@@ -1,0 +1,16 @@
+C:\Users\rsuarez\Desktop\fontes\ExercicioResolvidoParaAula21\bin\Debug\net5.0\ExercicioResolvidoParaAula21.exe
+C:\Users\rsuarez\Desktop\fontes\ExercicioResolvidoParaAula21\bin\Debug\net5.0\ExercicioResolvidoParaAula21.deps.json
+C:\Users\rsuarez\Desktop\fontes\ExercicioResolvidoParaAula21\bin\Debug\net5.0\ExercicioResolvidoParaAula21.runtimeconfig.json
+C:\Users\rsuarez\Desktop\fontes\ExercicioResolvidoParaAula21\bin\Debug\net5.0\ExercicioResolvidoParaAula21.runtimeconfig.dev.json
+C:\Users\rsuarez\Desktop\fontes\ExercicioResolvidoParaAula21\bin\Debug\net5.0\ExercicioResolvidoParaAula21.dll
+C:\Users\rsuarez\Desktop\fontes\ExercicioResolvidoParaAula21\bin\Debug\net5.0\ref\ExercicioResolvidoParaAula21.dll
+C:\Users\rsuarez\Desktop\fontes\ExercicioResolvidoParaAula21\bin\Debug\net5.0\ExercicioResolvidoParaAula21.pdb
+C:\Users\rsuarez\Desktop\fontes\ExercicioResolvidoParaAula21\obj\Debug\net5.0\ExercicioResolvidoParaAula21.csprojAssemblyReference.cache
+C:\Users\rsuarez\Desktop\fontes\ExercicioResolvidoParaAula21\obj\Debug\net5.0\ExercicioResolvidoParaAula21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rsuarez\Desktop\fontes\ExercicioResolvidoParaAula21\obj\Debug\net5.0\ExercicioResolvidoParaAula21.AssemblyInfoInputs.cache
+C:\Users\rsuarez\Desktop\fontes\ExercicioResolvidoParaAula21\obj\Debug\net5.0\ExercicioResolvidoParaAula21.AssemblyInfo.cs
+C:\Users\rsuarez\Desktop\fontes\ExercicioResolvidoParaAula21\obj\Debug\net5.0\ExercicioResolvidoParaAula21.csproj.CoreCompileInputs.cache
+C:\Users\rsuarez\Desktop\fontes\ExercicioResolvidoParaAula21\obj\Debug\net5.0\ExercicioResolvidoParaAula21.dll
+C:\Users\rsuarez\Desktop\fontes\ExercicioResolvidoParaAula21\obj\Debug\net5.0\ref\ExercicioResolvidoParaAula21.dll
+C:\Users\rsuarez\Desktop\fontes\ExercicioResolvidoParaAula21\obj\Debug\net5.0\ExercicioResolvidoParaAula21.pdb
+C:\Users\rsuarez\Desktop\fontes\ExercicioResolvidoParaAula21\obj\Debug\net5.0\ExercicioResolvidoParaAula21.genruntimeconfig.cache

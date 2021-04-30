@@ -1,0 +1,16 @@
+C:\Users\rsuarez\Desktop\fontes\TestOpenDir\obj\Debug\net5.0\TestOpenDir.csprojAssemblyReference.cache
+C:\Users\rsuarez\Desktop\fontes\TestOpenDir\obj\Debug\net5.0\TestOpenDir.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rsuarez\Desktop\fontes\TestOpenDir\obj\Debug\net5.0\TestOpenDir.AssemblyInfoInputs.cache
+C:\Users\rsuarez\Desktop\fontes\TestOpenDir\obj\Debug\net5.0\TestOpenDir.AssemblyInfo.cs
+C:\Users\rsuarez\Desktop\fontes\TestOpenDir\obj\Debug\net5.0\TestOpenDir.csproj.CoreCompileInputs.cache
+C:\Users\rsuarez\Desktop\fontes\TestOpenDir\bin\Debug\net5.0\TestOpenDir.exe
+C:\Users\rsuarez\Desktop\fontes\TestOpenDir\bin\Debug\net5.0\TestOpenDir.deps.json
+C:\Users\rsuarez\Desktop\fontes\TestOpenDir\bin\Debug\net5.0\TestOpenDir.runtimeconfig.json
+C:\Users\rsuarez\Desktop\fontes\TestOpenDir\bin\Debug\net5.0\TestOpenDir.runtimeconfig.dev.json
+C:\Users\rsuarez\Desktop\fontes\TestOpenDir\bin\Debug\net5.0\TestOpenDir.dll
+C:\Users\rsuarez\Desktop\fontes\TestOpenDir\bin\Debug\net5.0\ref\TestOpenDir.dll
+C:\Users\rsuarez\Desktop\fontes\TestOpenDir\bin\Debug\net5.0\TestOpenDir.pdb
+C:\Users\rsuarez\Desktop\fontes\TestOpenDir\obj\Debug\net5.0\TestOpenDir.dll
+C:\Users\rsuarez\Desktop\fontes\TestOpenDir\obj\Debug\net5.0\ref\TestOpenDir.dll
+C:\Users\rsuarez\Desktop\fontes\TestOpenDir\obj\Debug\net5.0\TestOpenDir.pdb
+C:\Users\rsuarez\Desktop\fontes\TestOpenDir\obj\Debug\net5.0\TestOpenDir.genruntimeconfig.cache

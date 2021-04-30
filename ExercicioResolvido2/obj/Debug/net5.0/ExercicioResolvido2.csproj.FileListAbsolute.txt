@@ -1,0 +1,16 @@
+C:\Users\rsuarez\Desktop\fontes\ExercicioResolvido2\bin\Debug\net5.0\ExercicioResolvido2.exe
+C:\Users\rsuarez\Desktop\fontes\ExercicioResolvido2\bin\Debug\net5.0\ExercicioResolvido2.deps.json
+C:\Users\rsuarez\Desktop\fontes\ExercicioResolvido2\bin\Debug\net5.0\ExercicioResolvido2.runtimeconfig.json
+C:\Users\rsuarez\Desktop\fontes\ExercicioResolvido2\bin\Debug\net5.0\ExercicioResolvido2.runtimeconfig.dev.json
+C:\Users\rsuarez\Desktop\fontes\ExercicioResolvido2\bin\Debug\net5.0\ExercicioResolvido2.dll
+C:\Users\rsuarez\Desktop\fontes\ExercicioResolvido2\bin\Debug\net5.0\ref\ExercicioResolvido2.dll
+C:\Users\rsuarez\Desktop\fontes\ExercicioResolvido2\bin\Debug\net5.0\ExercicioResolvido2.pdb
+C:\Users\rsuarez\Desktop\fontes\ExercicioResolvido2\obj\Debug\net5.0\ExercicioResolvido2.csprojAssemblyReference.cache
+C:\Users\rsuarez\Desktop\fontes\ExercicioResolvido2\obj\Debug\net5.0\ExercicioResolvido2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rsuarez\Desktop\fontes\ExercicioResolvido2\obj\Debug\net5.0\ExercicioResolvido2.AssemblyInfoInputs.cache
+C:\Users\rsuarez\Desktop\fontes\ExercicioResolvido2\obj\Debug\net5.0\ExercicioResolvido2.AssemblyInfo.cs
+C:\Users\rsuarez\Desktop\fontes\ExercicioResolvido2\obj\Debug\net5.0\ExercicioResolvido2.csproj.CoreCompileInputs.cache
+C:\Users\rsuarez\Desktop\fontes\ExercicioResolvido2\obj\Debug\net5.0\ExercicioResolvido2.dll
+C:\Users\rsuarez\Desktop\fontes\ExercicioResolvido2\obj\Debug\net5.0\ref\ExercicioResolvido2.dll
+C:\Users\rsuarez\Desktop\fontes\ExercicioResolvido2\obj\Debug\net5.0\ExercicioResolvido2.pdb
+C:\Users\rsuarez\Desktop\fontes\ExercicioResolvido2\obj\Debug\net5.0\ExercicioResolvido2.genruntimeconfig.cache
