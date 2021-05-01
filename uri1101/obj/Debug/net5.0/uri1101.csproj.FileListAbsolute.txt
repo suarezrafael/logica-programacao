@@ -1,0 +1,16 @@
+C:\Users\rsuarez\Desktop\fontes\uri1101\bin\Debug\net5.0\uri1101.exe
+C:\Users\rsuarez\Desktop\fontes\uri1101\bin\Debug\net5.0\uri1101.deps.json
+C:\Users\rsuarez\Desktop\fontes\uri1101\bin\Debug\net5.0\uri1101.runtimeconfig.json
+C:\Users\rsuarez\Desktop\fontes\uri1101\bin\Debug\net5.0\uri1101.runtimeconfig.dev.json
+C:\Users\rsuarez\Desktop\fontes\uri1101\bin\Debug\net5.0\uri1101.dll
+C:\Users\rsuarez\Desktop\fontes\uri1101\bin\Debug\net5.0\ref\uri1101.dll
+C:\Users\rsuarez\Desktop\fontes\uri1101\bin\Debug\net5.0\uri1101.pdb
+C:\Users\rsuarez\Desktop\fontes\uri1101\obj\Debug\net5.0\uri1101.csprojAssemblyReference.cache
+C:\Users\rsuarez\Desktop\fontes\uri1101\obj\Debug\net5.0\uri1101.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rsuarez\Desktop\fontes\uri1101\obj\Debug\net5.0\uri1101.AssemblyInfoInputs.cache
+C:\Users\rsuarez\Desktop\fontes\uri1101\obj\Debug\net5.0\uri1101.AssemblyInfo.cs
+C:\Users\rsuarez\Desktop\fontes\uri1101\obj\Debug\net5.0\uri1101.csproj.CoreCompileInputs.cache
+C:\Users\rsuarez\Desktop\fontes\uri1101\obj\Debug\net5.0\uri1101.dll
+C:\Users\rsuarez\Desktop\fontes\uri1101\obj\Debug\net5.0\ref\uri1101.dll
+C:\Users\rsuarez\Desktop\fontes\uri1101\obj\Debug\net5.0\uri1101.pdb
+C:\Users\rsuarez\Desktop\fontes\uri1101\obj\Debug\net5.0\uri1101.genruntimeconfig.cache

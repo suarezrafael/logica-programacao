@@ -6,18 +6,18 @@ namespace uri1035
     {
         static void Main(string[] args)
         {
-            int A, B, C;
+            string[] valores = Console.ReadLine().Split(' ');
 
-            A = 3;
-            B = 2;
-            C = 2;
+            int A = int.Parse(valores[0]);
+            int B = int.Parse(valores[1]);
+            int C = int.Parse(valores[2]);
+            int D = int.Parse(valores[3]);
 
-            if( A > B && B > C && C < 10 && C % 2 == 0){
-                // comando   
-            }    
-
-            if( A > B || B > C){
-                // comando
+            if (B > C && D > A && C + D > A + B && C > 0 && D > 0 && A % 2 == 0) {
+                Console.WriteLine("Valores aceitos");
+            }
+            else {
+                Console.WriteLine("Valores nao aceitos");
             }
         }
     }

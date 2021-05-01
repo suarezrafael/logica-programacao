@@ -1,0 +1,16 @@
+C:\Users\rsuarez\Desktop\fontes\uri1080\bin\Debug\net5.0\uri1080.exe
+C:\Users\rsuarez\Desktop\fontes\uri1080\bin\Debug\net5.0\uri1080.deps.json
+C:\Users\rsuarez\Desktop\fontes\uri1080\bin\Debug\net5.0\uri1080.runtimeconfig.json
+C:\Users\rsuarez\Desktop\fontes\uri1080\bin\Debug\net5.0\uri1080.runtimeconfig.dev.json
+C:\Users\rsuarez\Desktop\fontes\uri1080\bin\Debug\net5.0\uri1080.dll
+C:\Users\rsuarez\Desktop\fontes\uri1080\bin\Debug\net5.0\ref\uri1080.dll
+C:\Users\rsuarez\Desktop\fontes\uri1080\bin\Debug\net5.0\uri1080.pdb
+C:\Users\rsuarez\Desktop\fontes\uri1080\obj\Debug\net5.0\uri1080.csprojAssemblyReference.cache
+C:\Users\rsuarez\Desktop\fontes\uri1080\obj\Debug\net5.0\uri1080.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rsuarez\Desktop\fontes\uri1080\obj\Debug\net5.0\uri1080.AssemblyInfoInputs.cache
+C:\Users\rsuarez\Desktop\fontes\uri1080\obj\Debug\net5.0\uri1080.AssemblyInfo.cs
+C:\Users\rsuarez\Desktop\fontes\uri1080\obj\Debug\net5.0\uri1080.csproj.CoreCompileInputs.cache
+C:\Users\rsuarez\Desktop\fontes\uri1080\obj\Debug\net5.0\uri1080.dll
+C:\Users\rsuarez\Desktop\fontes\uri1080\obj\Debug\net5.0\ref\uri1080.dll
+C:\Users\rsuarez\Desktop\fontes\uri1080\obj\Debug\net5.0\uri1080.pdb
+C:\Users\rsuarez\Desktop\fontes\uri1080\obj\Debug\net5.0\uri1080.genruntimeconfig.cache
