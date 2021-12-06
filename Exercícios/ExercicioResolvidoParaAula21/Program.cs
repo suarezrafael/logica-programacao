@@ -17,7 +17,7 @@ namespace ExercicioResolvidoParaAula21
             // chamada o metodo start para iniciar o processo
             processo.Start();
 
-            for (int x = 1; x <= 10; x++)
+            for (int x = 1; x <= 1; x++)
             {
                 // executamos o bloco de notas
                 Process.Start("notepad.exe");

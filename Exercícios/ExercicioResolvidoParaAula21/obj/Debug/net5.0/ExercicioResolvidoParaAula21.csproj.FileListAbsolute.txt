@@ -14,3 +14,19 @@ C:\Users\rsuarez\Desktop\fontes\ExercicioResolvidoParaAula21\obj\Debug\net5.0\Ex
 C:\Users\rsuarez\Desktop\fontes\ExercicioResolvidoParaAula21\obj\Debug\net5.0\ref\ExercicioResolvidoParaAula21.dll
 C:\Users\rsuarez\Desktop\fontes\ExercicioResolvidoParaAula21\obj\Debug\net5.0\ExercicioResolvidoParaAula21.pdb
 C:\Users\rsuarez\Desktop\fontes\ExercicioResolvidoParaAula21\obj\Debug\net5.0\ExercicioResolvidoParaAula21.genruntimeconfig.cache
+C:\Desenv\Projetos Senac\logica-programacao\Exercícios\ExercicioResolvidoParaAula21\bin\Debug\net5.0\ExercicioResolvidoParaAula21.exe
+C:\Desenv\Projetos Senac\logica-programacao\Exercícios\ExercicioResolvidoParaAula21\bin\Debug\net5.0\ExercicioResolvidoParaAula21.deps.json
+C:\Desenv\Projetos Senac\logica-programacao\Exercícios\ExercicioResolvidoParaAula21\bin\Debug\net5.0\ExercicioResolvidoParaAula21.runtimeconfig.json
+C:\Desenv\Projetos Senac\logica-programacao\Exercícios\ExercicioResolvidoParaAula21\bin\Debug\net5.0\ExercicioResolvidoParaAula21.runtimeconfig.dev.json
+C:\Desenv\Projetos Senac\logica-programacao\Exercícios\ExercicioResolvidoParaAula21\bin\Debug\net5.0\ExercicioResolvidoParaAula21.dll
+C:\Desenv\Projetos Senac\logica-programacao\Exercícios\ExercicioResolvidoParaAula21\bin\Debug\net5.0\ref\ExercicioResolvidoParaAula21.dll
+C:\Desenv\Projetos Senac\logica-programacao\Exercícios\ExercicioResolvidoParaAula21\bin\Debug\net5.0\ExercicioResolvidoParaAula21.pdb
+C:\Desenv\Projetos Senac\logica-programacao\Exercícios\ExercicioResolvidoParaAula21\obj\Debug\net5.0\ExercicioResolvidoParaAula21.csproj.AssemblyReference.cache
+C:\Desenv\Projetos Senac\logica-programacao\Exercícios\ExercicioResolvidoParaAula21\obj\Debug\net5.0\ExercicioResolvidoParaAula21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desenv\Projetos Senac\logica-programacao\Exercícios\ExercicioResolvidoParaAula21\obj\Debug\net5.0\ExercicioResolvidoParaAula21.AssemblyInfoInputs.cache
+C:\Desenv\Projetos Senac\logica-programacao\Exercícios\ExercicioResolvidoParaAula21\obj\Debug\net5.0\ExercicioResolvidoParaAula21.AssemblyInfo.cs
+C:\Desenv\Projetos Senac\logica-programacao\Exercícios\ExercicioResolvidoParaAula21\obj\Debug\net5.0\ExercicioResolvidoParaAula21.csproj.CoreCompileInputs.cache
+C:\Desenv\Projetos Senac\logica-programacao\Exercícios\ExercicioResolvidoParaAula21\obj\Debug\net5.0\ExercicioResolvidoParaAula21.dll
+C:\Desenv\Projetos Senac\logica-programacao\Exercícios\ExercicioResolvidoParaAula21\obj\Debug\net5.0\ref\ExercicioResolvidoParaAula21.dll
+C:\Desenv\Projetos Senac\logica-programacao\Exercícios\ExercicioResolvidoParaAula21\obj\Debug\net5.0\ExercicioResolvidoParaAula21.pdb
+C:\Desenv\Projetos Senac\logica-programacao\Exercícios\ExercicioResolvidoParaAula21\obj\Debug\net5.0\ExercicioResolvidoParaAula21.genruntimeconfig.cache

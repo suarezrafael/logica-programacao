@@ -8,24 +8,31 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\rsuarez\\.nuget\\packages\\": {}
+    "C:\\Users\\rafael.suarez\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rsuarez\\Desktop\\fontes\\ExercicioResolvidoParaAula21\\ExercicioResolvidoParaAula21.csproj",
+      "projectUniqueName": "C:\\Desenv\\Projetos Senac\\logica-programacao\\Exercícios\\ExercicioResolvidoParaAula21\\ExercicioResolvidoParaAula21.csproj",
       "projectName": "ExercicioResolvidoParaAula21",
-      "projectPath": "C:\\Users\\rsuarez\\Desktop\\fontes\\ExercicioResolvidoParaAula21\\ExercicioResolvidoParaAula21.csproj",
-      "packagesPath": "C:\\Users\\rsuarez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rsuarez\\Desktop\\fontes\\ExercicioResolvidoParaAula21\\obj\\",
+      "projectPath": "C:\\Desenv\\Projetos Senac\\logica-programacao\\Exercícios\\ExercicioResolvidoParaAula21\\ExercicioResolvidoParaAula21.csproj",
+      "packagesPath": "C:\\Users\\rafael.suarez\\.nuget\\packages\\",
+      "outputPath": "C:\\Desenv\\Projetos Senac\\logica-programacao\\Exercícios\\ExercicioResolvidoParaAula21\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\rsuarez\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\rafael.suarez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "http://nexus.dotznext.com/repository/nuget/": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -58,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }
